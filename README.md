@@ -14,9 +14,9 @@ Este proyecto tiene como propósito adaptar y aplicar el modelo global **PyPSA-E
 
 | Carpeta / Archivo | Descripción |
 |-------------------|-------------|
-| `results/`        | Resultados del modelo (`.nc`, `.csv`, `.geojson`) para Argentina. |
+| `results/`        | Resultados del modelo (`.nc`) para Argentina. |
 | `config.yaml`     | Archivo de configuración usado para ejecutar PyPSA-Earth en esta región. |
-
+| `resources/`      | Archivos de datos de lineas, generadores, estaciones. |
 ---
 
 ## 🌍 ¿Qué es PyPSA-Earth?
